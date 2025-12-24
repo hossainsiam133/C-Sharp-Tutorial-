@@ -1,0 +1,14 @@
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\bin\Debug\net10.0\C-Sharp-Tutorial-.exe
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\bin\Debug\net10.0\C-Sharp-Tutorial-.deps.json
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\bin\Debug\net10.0\C-Sharp-Tutorial-.runtimeconfig.json
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\bin\Debug\net10.0\C-Sharp-Tutorial-.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\bin\Debug\net10.0\C-Sharp-Tutorial-.pdb
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.AssemblyInfoInputs.cache
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.AssemblyInfo.cs
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.csproj.CoreCompileInputs.cache
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\refint\C-Sharp-Tutorial-.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.pdb
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.genruntimeconfig.cache
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\ref\C-Sharp-Tutorial-.dll

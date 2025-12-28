@@ -1,0 +1,15 @@
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\A_Blackslex_and_Password_bin\.cphcsrun.exe
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\A_Blackslex_and_Password_bin\.cphcsrun.deps.json
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\A_Blackslex_and_Password_bin\.cphcsrun.runtimeconfig.json
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\A_Blackslex_and_Password_bin\.cphcsrun.dll
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\A_Blackslex_and_Password_bin\.cphcsrun.pdb
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.AssemblyInfoInputs.cache
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.AssemblyInfo.cs
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.csproj.CoreCompileInputs.cache
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.sourcelink.json
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.dll
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\refint\.cphcsrun.dll
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.pdb
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\.cphcsrun.genruntimeconfig.cache
+c:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\.cphcsrun\obj\Release\net10.0\ref\.cphcsrun.dll

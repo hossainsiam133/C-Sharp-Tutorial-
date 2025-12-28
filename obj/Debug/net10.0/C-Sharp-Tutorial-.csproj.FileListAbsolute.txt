@@ -12,3 +12,4 @@ C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\refint
 C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.pdb
 C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.genruntimeconfig.cache
 C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\ref\C-Sharp-Tutorial-.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\obj\Debug\net10.0\C-Sharp-Tutorial-.sourcelink.json

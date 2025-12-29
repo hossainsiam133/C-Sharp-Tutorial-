@@ -1,0 +1,29 @@
+C:\Users\Maraya Global\Documents\C# Project\sms\bin\Debug\net10.0\sms.exe
+C:\Users\Maraya Global\Documents\C# Project\sms\bin\Debug\net10.0\sms.deps.json
+C:\Users\Maraya Global\Documents\C# Project\sms\bin\Debug\net10.0\sms.runtimeconfig.json
+C:\Users\Maraya Global\Documents\C# Project\sms\bin\Debug\net10.0\sms.dll
+C:\Users\Maraya Global\Documents\C# Project\sms\bin\Debug\net10.0\sms.pdb
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.AssemblyInfoInputs.cache
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.AssemblyInfo.cs
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.csproj.CoreCompileInputs.cache
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.dll
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\refint\sms.dll
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.pdb
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\sms.genruntimeconfig.cache
+C:\Users\Maraya Global\Documents\C# Project\sms\obj\Debug\net10.0\ref\sms.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\bin\Debug\net10.0\sms.exe
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\bin\Debug\net10.0\sms.deps.json
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\bin\Debug\net10.0\sms.runtimeconfig.json
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\bin\Debug\net10.0\sms.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\bin\Debug\net10.0\sms.pdb
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.AssemblyInfoInputs.cache
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.AssemblyInfo.cs
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.csproj.CoreCompileInputs.cache
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.sourcelink.json
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\refint\sms.dll
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.pdb
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\sms.genruntimeconfig.cache
+C:\Users\Maraya Global\Documents\Gits\C-Sharp-Tutorial-\02_Project\Student Management System\obj\Debug\net10.0\ref\sms.dll

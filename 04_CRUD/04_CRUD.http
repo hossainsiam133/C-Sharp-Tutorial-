@@ -4,16 +4,25 @@ GET {{_04_CRUD_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET  http://localhost:5179/api/categories?Val=electronics
 
-GET  http://localhost:5179/api/categories
+
+###
+GET  http://localhost:5179/api/cate
 
 ###
 
 POST http://localhost:5179/api/categories
+Content-Type: application/json  
+
+{
+    "name" : "",
+    "description": "Items related to food and household supplies"
+}
 
 ###
 
-DELETE http://localhost:5179/api/categories
+DELETE http://localhost:5179/api/categories/3
 
 ###
-PUT http://localhost:5179/api/categories
+PUT http://localhost:5179/api/categories/4
